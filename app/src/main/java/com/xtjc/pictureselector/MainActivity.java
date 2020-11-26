@@ -39,7 +39,7 @@ public class MainActivity extends CheckPermissionsActivity {
     @BindView(R.id.img_header_setting_bg)
     ImageView imgHeaderSettingBg;
     @BindView(R.id.lay_image)
-    LinearLayout layImage;
+    ImageView layImage;
     @BindView(R.id.view_setting_camere)
     RelativeLayout viewSettingCamere;
 
@@ -72,21 +72,16 @@ public class MainActivity extends CheckPermissionsActivity {
 
             @Override
             public void onOneClick() {
-                if (i == 1) {
 
-                } else {
-                    PictureUtil.Album(MainActivity.this, chooseMode, selectList, code, maxSelectNum, false);
-                }
+                    PictureUtil.Album(MainActivity.this, chooseMode, selectList, code, maxSelectNum, true);
+
                 bottomDialog.dismissDialog();
             }
 
             @Override
             public void onTwoClick() {
-                if (i == 1) {
 
-                } else {
                     PictureUtil.Camera(MainActivity.this, chooseMode, selectList, code, maxSelectNum, false);
-                }
 
                 bottomDialog.dismissDialog();
             }

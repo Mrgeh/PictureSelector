@@ -24,7 +24,7 @@
                     android:layout_height="match_parent" />
 
                 <LinearLayout
-                    android:id="@+id/lay_image"
+
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_centerInParent="true"
@@ -32,10 +32,11 @@
                     android:orientation="vertical">
 
                     <ImageView
+                        android:id="@+id/lay_image"
                         android:layout_width="50dp"
                         android:layout_height="50dp"
                         android:layout_centerHorizontal="true"
-                        android:background="@drawable/ic_camera" />
+                        />
 
                     <TextView
                         android:layout_width="wrap_content"

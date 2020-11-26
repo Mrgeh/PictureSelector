@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.XiaoBaiErHao.PictureAudioVideoSelector:picture_library:v1.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/07d9fb3338451c0f6405f7ac1ee563fa/jetified-picture_library-v1.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/07d9fb3338451c0f6405f7ac1ee563fa/jetified-picture_library-v1.0.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.XiaoBaiErHao.PictureAudioVideoSelector/picture_library/v1.0.1/1b4739fa4344d6186f7776d58954c075f4df5da3/picture_library-v1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

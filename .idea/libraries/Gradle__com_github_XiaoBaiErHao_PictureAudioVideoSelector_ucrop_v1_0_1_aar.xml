@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.XiaoBaiErHao.PictureAudioVideoSelector:ucrop:v1.0.1@aar">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1e80d1eac124cd9e1d2d8f672c03f6df/jetified-ucrop-v1.0.1/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9570bd091c4db96d210dcd591a993a7a/jetified-ucrop-v1.0.1/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1e80d1eac124cd9e1d2d8f672c03f6df/jetified-ucrop-v1.0.1/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1e80d1eac124cd9e1d2d8f672c03f6df/jetified-ucrop-v1.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9570bd091c4db96d210dcd591a993a7a/jetified-ucrop-v1.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9570bd091c4db96d210dcd591a993a7a/jetified-ucrop-v1.0.1/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
